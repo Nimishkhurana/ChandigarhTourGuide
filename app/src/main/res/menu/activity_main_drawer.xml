@@ -13,10 +13,12 @@
         <item
             android:id="@+id/nav_religious"
             android:title="Religious Places" />
+
     </group>
-    <group android:checkableBehavior="single">
     <item android:title="Fun and Stay">
+
         <menu>
+            <group android:checkableBehavior="single">
             <item
                 android:id="@+id/nav_pubs"
                 android:title="Pubs" />
@@ -29,13 +31,14 @@
             <item
                 android:id="@+id/nav_hotels"
                 android:title="Hotels"/>
+            </group>
         </menu>
     </item>
-    </group>
 
-    <group android:checkableBehavior="single">
+
     <item android:title="Nature">
         <menu>
+            <group android:checkableBehavior="single">
             <item
                 android:id="@+id/nav_parks"
                 android:title="Parks" />
@@ -45,17 +48,20 @@
             <item
                 android:id="@+id/nav_sights"
                 android:title="Sights and Landmarks" />
+            </group>
         </menu>
     </item>
+
+
+    <group
+        android:id = "@+id/group2"
+        android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_about_us"
+        android:title="About Us" />
     </group>
-    <group android:checkableBehavior="single">
-    <item android:title="@string/app_name">
-        <menu>
-            <item
-                android:id="@+id/nav_about_us"
-                android:title="About Us" />
-        </menu>
-    </item>
-    </group>
+
+
+
 
 </menu>

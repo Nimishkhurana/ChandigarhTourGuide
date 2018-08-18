@@ -21,5 +21,20 @@
     <string name="food_and_stay">Food and Stay</string>
     <string name="sights">Sights and Landmarks</string>
     <string name="about_us">About Us</string>
-
+    <string name="elante">Elante Mall</string>
+    <string name="rock_garden">Rock Garden</string>
+    <string name="sukhna">Sukhna Lake</string>
+    <string name="chandi_mandir">Chandi Mandir</string>
+    <string name="pu">Panjab University</string>
+    <string name="paara_club">Paara Club</string>
+    <string name="likes">115 likes</string>
+    <string name="rose_garden">Rose Garden</string>
+    <string name="garden_of_fragnance">Garden of Fragnance</string>
+    <string name="terrased_garden">Terrased Garden</string>
+    <string name="butterfly_park">Butterfly Park</string>
+    <string name="children_traffic_park">Children Traffic Park</string>
+    <string name="topiary_park">Topiary Park</string>
+    <string name="rajendra_park">Rajendra Park</string>
+    <string name="chandigarh_botanical_garden">Chandigarh Botanical Garden and Nature Park</string>
 </resources>
+
